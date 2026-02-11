@@ -13,10 +13,6 @@ export default function RegistrationSuccess() {
           Registration Successful!
         </h1>
         
-        <p className="text-gray-600 text-lg mb-8">
-          Welcome aboard! Your account has been created successfully.
-        </p>
-        
         <div className="space-y-4">
           <p className="text-gray-700 font-semibold">
             Join our WhatsApp community to stay connected with us
