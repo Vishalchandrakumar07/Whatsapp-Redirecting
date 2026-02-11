@@ -24,7 +24,7 @@ export default function RegistrationSuccess() {
             className="w-full bg-green-500 hover:bg-green-600 text-white"
           >
             <a
-              href="https://chat.whatsapp.com"
+              href="https://chat.whatsapp.com/CwcPd7pWj1SH8gekj2roPq"
               target="_blank"
               rel="noopener noreferrer"
             >
